@@ -68,7 +68,8 @@ Key questions addressed:
 ## Project Structure
 
 Data/
-    Manufacturing_Production_Analysis_cleaned.csv
+    manufacturing_production_data.csv
+    manufacturing_production_data.xlsx
 
 Python/
     Manufacturing_Production_Analysis.ipynb
