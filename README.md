@@ -156,6 +156,10 @@ Based on the analysis:
 
 The project includes an interactive Power BI dashboard for monitoring manufacturing production, downtime, maintenance, utilization, and quality KPIs.
 
+### Dashboard Preview
+
+![Manufacturing Production & Maintenance Dashboard](Images/dashboard_overview.png)
+
 **Dashboard file:**
 
 `Power BI/Manufacturing_Production_Maintenance_Dashboard.pbix`
